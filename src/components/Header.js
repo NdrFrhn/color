@@ -8,4 +8,4 @@ const Header = () => {
     )
 }
 
-export { Header as default};
+export { Header as default };
